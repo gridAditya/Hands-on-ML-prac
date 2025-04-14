@@ -1,2 +1,4 @@
-/datasets
-/images
+datasets/
+images/
+venv/
+__pycache__/
